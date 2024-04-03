@@ -203,7 +203,5 @@ body{
     .card__container{
         padding: 4rem;
     }
-    .card__content{
-        height: 0;
-    }
+   
 }
